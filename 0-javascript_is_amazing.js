@@ -3,3 +3,4 @@
  console.log(myVar);
 
 </script>
+node 0-javascript_is_amazing.js
